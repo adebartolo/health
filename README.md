@@ -122,5 +122,7 @@ The model generates:
 # Disclaimer
 
 This repository uses synthetic demonstration data only.
+
 No protected health information (PHI) or real patient data is included.
+
 This project is intended for educational purposes.
